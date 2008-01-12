@@ -1,129 +1,229 @@
-==This subdomain is reserved for the creation of a [[wikimedia:Our projects|Wikipedia]] in '''[[w:en:Qırımtatarca|Qırımtatarca]]''' language==
+<p id="welcome" style="text-align:center;font-size:150%;line-height:1.3em;font-weight:normal;margin-bottom:0;">
+QIRIMTATAR VİKİPEDİYASINA <br><br>
 
-* Please '''do not start editing''' this new site. This site has a test project on the [[incubator:|Wikimedia Incubator]] (or on the [[betawikiversity:|BetaWikiversity]] or on the [[oldwikisource:|Old Wikisource]]) and it will be imported to here.
+HOŞ KELDİÑİZ!
+</p>
 
-* If you would like to help translating the interface to this language, please do not translate here, but go to [[betawiki:|Betawiki]], a special wiki for translating the interface. That way everyone can use it on every wiki using the [[mw:|same software]].
+<br>
+[[Image:Kok Bayraq.svg|center|290px]]
+<br><br>
+<center></center>
 
-* For information about how to edit and for other general help, see [[m:Help:Contents|Help on Wikimedia's Meta-Wiki]] or [[mw:Help:Contents|Help on MediaWiki.org]].
+<br>
 
-== Sister projects ==
-<span class="plainlinks">
-[http://www.wikipedia.org Wikipedia] |
-[http://www.wiktionary.org Wiktonary] |
-[http://www.wikibooks.org Wikibooks] |
-[http://www.wikinews.org Wikinews] |
-[http://www.wikiquote.org Wikiquote] |
-[http://www.wikisource.org Wikisource]
-[http://www.wikiversity.org Wikiversity]
-</span>
+<p id="welcome" style="text-align:center;font-size:150%;line-height:1.3em;font-weight:normal;margin-bottom:0;">Sualleriñiz ya da fikirleriñiz barmı? [[Wp/crh/Meydan|MEYDAN]]ımızda olarnı aytıp оlasıñız!</p>
+<br><br>
+<p id="welcome" style="text-align:center;font-size:150%;line-height:1.3em;font-weight:normal;margin-bottom:0;">İlk sefer vikipediyadasıñızmı? [[Wp/crh/Yardım|YARDIM]] saifesine baqıñız!</p>
 
-See Wikimedia's [[m:|Meta-Wiki]] for the coordination of these projects.
+<br><br>
 
-[[aa:]]
-[[af:]]
-[[als:]]
+<div style="width:100%;background-color:#fcfcfc;border:1px solid #ccc">
+{|align=center
+||
+* '''Medeniyet''' <br>
+* [[:Category:Edebiyat|Edebiyat]]
+* [[:Category:Sanat|Sanat]]
+* [[:Category:Biografiyalar|Biografiyalar]]
+* [[:Category:Milliy bayramlar|Milliy bayramlar]]
+||
+* '''Dünya''' <br>
+* [[:Category:Tarih|Tarih]]
+* [[:Category:İlimler|İlimler]]
+* [[:Category:Tiller|Tiller]]
+* [[:Category:Coğrafiya|Coğrafiya]]
+||
+* '''Qırım''' <br>
+* [[:Category:Qırım|Qırım]]
+* [[:Category:Qırımtatar halqı|Qırımtatar halqı]]
+* [[:Category:Tarih|Qırım tarihı]]
+* [[:Category:Qırım Muhtar Cumhuriyeti|Qırım Muhtar Cumhuriyeti]]
+|-
+|}
+</div>
+
+<br><br>
+<div>
+<center>'''Yañı bir maqale yaza bilesiñiz:'''</center>
+<inputbox>
+ type=create
+ width=90
+ bgcolor=#ffffff
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=Wp/crh/
+</inputbox>
+</div>
+
+
+== Yardım ==
+* [[Wp/crh/Vikipediya:Latin elifbesi|<font-size:1.3em>LATİN ELİFBESİ</font-size:1.3em>]]
+* [[Wp/crh/Vikipediya:Imlâ|<font-size:1.3em>İMLÂMIZNIÑ ESAS QAİDELERİ</font-size:1.3em>]]
+
+== Maqaleler ==
+
+<table border=0 width="800">
+<tr>
+<th width="33%"> '''Qırım'''</th>
+<th width="33%">'''Qırım cоğrafiyası'''</th>
+<th width="34%">'''Qırımtatar halqı'''</th>
+</tr>
+
+<tr>
+<td>
+* [[Wp/crh/Qırım|Qırım]]
+* [[Wp/crh/Qırım Muhtar Cumhuriyeti|Qırım Muhtar Cumhuriyeti]]
+</td>
+<td>
+* [[:Template:Wp/crh/Qırımdaki meskün yerler|Şeer ve qasabalar]]
+* [[:Template:Wp/crh/Qırımdaki regionlar|Regiоnlar]]
+* [[:Template:Wp/crh/Qırımdaki özenler|Özenler]]
+</td>
+<td>
+* [[Wp/crh/Qırımtatarlar|Qırımtatarlar]]
+* [[Wp/crh/Qırımtatar tili|Qırımtatar tili]]
+* [[Wp/crh/Ant etkenmen|Ant etkenmen]]
+* [[Wp/crh/Qırımtatar tamğası|Qırımtatar tamğası]]
+* [[Wp/crh/Qırımtatar diasporası|Qırımtatar diasporası]]
+</td>
+</tr>
+
+<tr></tr><tr></tr><tr></tr>
+
+<tr>
+<th>'''Tarih'''</th>
+<th>'''Coğrafiya'''</th>
+<th>'''Medeniyet'''</th>
+</tr>
+
+<tr>
+<td>
+* [[Wp/crh/Altın Ordu|Altın Ordu]]
+* [[Wp/crh/Osmanlı Devleti|Osmanlı Devleti]]
+* [[Wp/crh/Qırım Hanlığı|Qırım Hanlığı]]
+* [[Wp/crh/Geraylar|Geraylar]]
+* [[Wp/crh/I Hacı Geray|I Hacı Geray]]
+* [[Wp/crh/Qırım-Rus Cenki (1571 - 1572)|Qırım-Rus Cenki (1571 - 1572)]]
+* [[Wp/crh/I Qurultay|I Qurultay]]
+* [[Wp/crh/Qırım Halq Cumhuriyeti|Qırım Halq Cumhuriyeti]]
+</td>
+<td>
+* [[Wp/crh/Memleketler cedveli|Memleketler cedveli]]
+* [[Wp/crh/Afrika|Afrika]]
+* [[Wp/crh/Antarktida|Antarktida]]
+* [[Wp/crh/Asiya|Asiya]]
+* [[Wp/crh/Avropa|Avropa]]
+* [[Wp/crh/Avstraliya ve Okeaniya|Avstraliya ve Okeaniya]]
+* [[Wp/crh/Şimaliy Amerika|Şimaliy Amerika]] 
+* [[Wp/crh/Cenübiy Amerika|Cenübiy Amerika]] 
+</td>
+<td>
+* [[Wp/crh/Aşıq oyunı|Aşıq oyunı]]
+* [[Wp/crh/Hıdırlez|Hıdırlez]]
+* [[Wp/crh/Navrez|Navrez]]
+* [[Wp/crh/Cıyın|Cıyın]]
+</td>
+</tr>
+
+<tr>
+<th width="33%"> '''Cemaat erbapları'''</th>
+<th width="33%">'''Medeniyet erbapları'''</th>
+<th width="34%">'''Cenk qaramanları'''</th>
+</tr>
+
+<tr>
+<td>
+* [[Wp/crh/İsmail Gasprinskiy|İsmail Gasprinskiy]]
+* [[Wp/crh/Noman Çelebicihan|Noman Çelebicihan]]
+* [[Wp/crh/Mustafa Kemal Atatürk|Mustafa Kemal Atatürk]]
+</td>
+<td>
+* [[Wp/crh/Osman Aqçoqraqlı|Osman Aqçoqraqlı]]
+* [[Wp/crh/Osman Asanov|Osman Asanov]]
+* [[Wp/crh/Şevqiy Bektöre|Şevqiy Bektöre]]
+* [[Wp/crh/Bekir Çoban-zade|Bekir Çoban-zade]]
+* [[Wp/crh/Amdi Geraybay|Amdi Geraybay]]
+* [[Wp/crh/Ümer İpçi|Ümer İpçi]]
+* [[Wp/crh/Üsein Şamil Toqtarğazı|Üsein Şamil Toqtarğazı]]
+</td>
+<td>
+* [[Wp/crh/Alime Abdennanova|Alime Abdennanova]]
+* [[Wp/crh/Teyfuq Abdul|Teyfuq Abdul]]
+* [[Wp/crh/Üzeir Abduramanov|Üzeir Abduramanov‎]]
+* [[Wp/crh/Abdureim Reşidov|Abdureim Reşidov‎]]
+* [[Wp/crh/Seyitnafe Seyitveliyev|Seyitnafe Seyitveliyev]]
+* [[Wp/crh/Amethan Sultan|Amethan Sultan]]
+* [[Wp/crh/Irğat_Qadır|Irğat Qadır]]
+</td>
+</tr>
+
+
+</table>
+
+
+
+{{Wp/crh/Türk vikipediyaları}}
+
+<br>
+
+<br clear="all" />
+{| align="center" class="toccolours" cellspacing="0"
+|-bgcolor="#ccccff" 
+! [[Incubator:Turkic Portal|Turkic Portal]]
+|- align="center" 
+|| [[Wp/crh|Crimean Tatar]]  | [[Wp/gag|Gagauz]] | [[Wp/kaa|Karakalpak]] | [[wp/kjh|Khakas]]  | [[wp/yen|Old Turkic]] | [[Wp/ota|Ottoman Turkic]] |  [[wp/tyv|Tuvan]] | [[Wp/sah|Sakha (Yakut)]]
+|}
+
+[[Category:Crimean Tatar Wikipedia]]
+
+
+<!-- interwiki -->
 [[ar:]]
-[[de:]]
-[[en:]]
-[[as:]]
-[[ast:]]
-[[ay:]]
 [[az:]]
-[[bcl:]]
-[[be:]]
+[[ba:]]
 [[bg:]]
-[[bn:]]
-[[bo:]]
 [[bs:]]
-[[cs:]]
-[[co:]]
-[[cs:]]
-[[cy:]]
+[[ca:]]
+[[cv:]]
 [[da:]]
+[[de:]]
 [[el:]]
-[[eo:]]
+[[en:]]
 [[es:]]
-[[et:]]
-[[eu:]]
+[[eo:]]
 [[fa:]]
 [[fi:]]
 [[fr:]]
 [[fy:]]
-[[ga:]]
-[[gl:]]
-[[gn:]]
-[[gu:]]
 [[he:]]
-[[hi:]]
 [[hr:]]
-[[hsb:]]
-[[hy:]]
-[[ia:]]
-[[id:]]
-[[is:]]
+[[hu:]]
+[[id:]] 
 [[it:]]
 [[ja:]]
-[[ka:]]
+[[jv:]]
 [[kk:]]
-[[km:]]
-[[kn:]]
-[[ko:]]
-[[ks:]]
 [[ku:]]
 [[ky:]]
 [[la:]]
-[[ln:]]
-[[lo:]]
-[[lt:]]
-[[lv:]]
-[[hu:]]
-[[mi:]]
-[[mk:]]
-[[ml:]]
-[[mn:]]
-[[mr:]]
+[[lb:]]
+[[map-bms:]]
 [[ms:]]
-[[mt:]]
-[[my:]]
-[[na:]]
-[[nah:]]
 [[nds:]]
-[[ne:]]
 [[nl:]]
 [[no:]]
-[[oc:]]
-[[om:]]
-[[pa:]]
+[[os:]]
 [[pl:]]
-[[ps:]]
 [[pt:]]
-[[qu:]]
 [[ro:]]
 [[ru:]]
-[[sa:]]
-[[si:]]
-[[sk:]]
 [[sl:]]
-[[sq:]]
 [[sr:]]
+[[su:]]
 [[sv:]]
-[[sw:]]
-[[ta:]]
-[[te:]]
-[[tg:]]
-[[th:]]
 [[tk:]]
-[[tl:]]
 [[tr:]]
 [[tt:]]
 [[ug:]]
 [[uk:]]
-[[ur:]]
 [[uz:]]
-[[vi:]]
-[[vo:]]
-[[xh:]]
-[[yo:]]
-[[za:]]
 [[zh:]]
-[[zu:]]
