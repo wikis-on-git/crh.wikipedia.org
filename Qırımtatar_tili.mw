@@ -1,40 +1,22 @@
-{| border="1" cellpadding="2" cellspacing="0" style="float: right; margin: 0 0 0.5em 1em; width: 300px;"
-! colspan="2" bgcolor="#AFD6FF" style="font-size:120%"|Qırımtatar tili, Qırım tili
-|-
-| valign="top"|Memleketler:
-|[[Qırım]] ([[Ukraina]]), [[Özbekistan]], [[Türkiye]], [[Romaniya]], [[Bulğaristan]]
-|-
-| valign="top"|Regionlar:
-| [[Şarqiy Avrоpa]], [[Ğarbiy Asiya]], [[Merkeziy Asiya]]
-|-
-| valign="top"|Laf eticiler sayısı:
-| sabıq ŞSCBnde 400 000-ge yaqın
-|-
-| valign="top"|Yazıluv:
-| valign="top"| [[Latin elifbesi|latin elifbesi]], [[Kirill elifbesi|kirill elifbesi]]
-|-
-| valign="top"|Klassifikatsiya:
-|[[Altay tilleri]]<br />
-&nbsp;[[Türkiy tiller]]<br />
-&nbsp;&nbsp;[[Qıpçaq tilleri]], [[Oğuz tilleri]]
-&nbsp;&nbsp;&nbsp;'''Qırımtatar tili'''
-|-
-! colspan="2" bgcolor="#AFD6FF"|'''Resmiy status'''
-|-
-| valign="top"|Resmiy til:
-| valign="top"|  --
-|-
-| valign="top"|Regulirlegen teşkilât:
-| valign="top"| ---
-|-
-! colspan="2" bgcolor="#AFD6FF"|Tilniñ kоdları
-|-
-|[[ISO 639|ISO 639]]-1||yоq
-|-
-|ISO 639-2||crh
-|-
-|ISO 639-3||crh
-|}
+{{Til
+ |renk = Altay
+ |ad = Qırımtatar tili
+ |memleketler = [[Qırım]] ([[Ukraina]]), [[Özbekistan]], [[Türkiye]], [[Romaniya]], [[Bulğaristan]]
+|regionlar =
+|resmiy til =
+|kişi sayısı = sabıq [[ŞSCB]]de 400 000-ge yaqın
+|sıra =
+|kategoriya = [[Avrasiya tilleri]]
+|sınıflaştırma =
+[[Altay tilleri]]
+:[[Türkiy tiller]]
+::[[Qıpçaq tilleri]], [[Oğuz tilleri]]
+:::'''Qırımtatar tili'''
+|elifbe = [[latin elifbesi]], [[kirill elifbesi]]
+|ISO1 = yoq
+|ISO2 = crh
+|ISO3 = crh
+}} 
 [[Resim:Crymean Tatar lang.png|thumb|Qırımtatar tiliniñ darqalması]]
 '''Qırımtatar tili''' ya da '''qırım tili''' — [[qırımtatarlar]]nıñ tilidir, [[Altay tilleri|Altay tilleriniñ ailesine]] kirgen [[türkiy tiller]]ge mensüp. Yazı tili [[Latin urufatı|latin]] ve [[Kirill urufatı|kirill]] urufatlarınıñ esasındadır.
 
