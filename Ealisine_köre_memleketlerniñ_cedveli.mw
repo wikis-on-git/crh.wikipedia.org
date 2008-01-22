@@ -251,7 +251,7 @@ UN estimate
 |-
 | 117 ||  [[Kosta Rika]] || 4 468 000 || || {{#expr: 4327000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
 |-
-| 118 ||  [[Gürcistan]] || 4 395 000 <small>[[Abhaziya]] (216,000) ve [[Cenübiy Osetiya]] (70,000) ile beraber</small> || || {{#expr: 4395000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
+| 118 ||  [[Gürcistan]]<ref>[[Abhaziya]] (216,000) ve [[Cenübiy Osetiya]] (70,000) ile beraber</ref> || 4 395 000 || || {{#expr: 4395000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
 |-
 | 119 ||  [[Qoşma Arap Emirlikleri]] || 4 380 000 || || {{#expr: 4380000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
 |-
@@ -267,7 +267,7 @@ UN estimate
 |-
 | 125 ||  [[Bosna ve Hertsegovina]] || 3 935 000 || || {{#expr: 3935000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
 |-
-| 126 ||  [[Moldova]] || 3 794 000<small>[[Pridenstrovyeъътут beraber</small> || || {{#expr: 3794000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
+| 126 ||  [[Moldova]]<ref>[[Pridenstrovye]] ile beraber</ref> || 3 794 000 || || {{#expr: 3794000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
 |-
 | 127 ||  [[Kongo Cumhuriyeti]] || 3 768 000 || || {{#expr: 3768000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
 |-
@@ -321,7 +321,7 @@ UN estimate
 |-
 | 152 ||  [[Svaziland]] || 1 141 000 || || {{#expr: 1141000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
 |-
-| 153 ||  [[Qıbrız]] || 855 000<small>[[Şimaliy Qıbrız]]nen beraber (264,172).</small> || || {{#expr: 835000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
+| 153 ||  [[Qıbrız]]<ref>[[Şimaliy Qıbrız]]nen beraber (264,172).</ref> || 855 000 || || {{#expr: 835000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
 |-
 | 154 ||  [[Qatar]] || 841 000 || || {{#expr: 841000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| UN estimate
 |-
@@ -410,6 +410,9 @@ UN estimate
 |-
 | 196 ||  [[Vatikan]] || 800 || || 0.00002% || style="font-size: 75%"| UN estimate
 |}
+
+== İzaatlar ==
+<references/>
 
 [[Kategoriya:Memleketler]]
 
