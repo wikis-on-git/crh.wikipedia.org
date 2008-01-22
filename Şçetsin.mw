@@ -2,7 +2,7 @@
  |tip                        = şeer
  |qırımtatar adı             = Şçeçin
  |original adı               = Szczecin
- |memleket                   = [[Lehistan]]
+ |memleket                   = Lehistan
  |gerb                       = POL Szczecin COA.svg
  |bayraq                     = POL Szczecin flag.svg
  |gerb eni                   =      
@@ -11,17 +11,12 @@
   |lon_deg=14 |lon_min=35 |lon_sec=00
   |CoordAddon                = 
   |CoordScale                = 
- |memleket haritasınıñ büyükligi   = 0
- |region1 haritasınıñ büyükligi    = 300
- |region2 haritasınıñ büyükligi    = 300
- |region1 haritası           = Crimea-Baghchasaray locator map.png
- |region2 haritası           = Baghchasaray-Baghchasaray locator map.png
- |region1 türü               = Region
- |region1                    = Pomeraniya
+ |memleket haritasınıñ büyükligi   = 200
+ |region1 haritasınıñ büyükligi    =
+ |region2 haritasınıñ büyükligi    =
+ |region1 türü               = vоyevоdalıq
+ |region1                    = Ğarbiy Pomeraniya
  |cedvelde region1 adı       =
- |region2 türü               = vоyevоdalığ
- |region2                    = Zachodniopomorskie
- |cedvelde region2 adı       =
  |içki bölünüv               = 
  |baş türü                   = 
  |baş                        = 
@@ -50,10 +45,10 @@
  |Commons                    = Szczecin
  |sayt                       = http://www.szczecin.pl
 }}
-[[Image:PolandSzczecinSeaMuseum.JPG|thumb|right|Wały Chrobrego]]
-'''Şçeçin''' ([[leh tili|lehçe]] ''Szczecin'', [[alman tili|almanca]] ''Stettin'') – şarqiy [[Lehistan]]da bir şeerdir.
+'''Şçeçin''' ([[leh tili|lehçe]] ''Szczecin'', [[alman tili|almanca]] ''Stettin'') – ğarbiy [[Lehistan]]da bir şeerdir.
+[[Resim:PolandSzczecinSeaMuseum.JPG|thumb|left|Wały Chrobrego]]
 
-[[Category:Lehistan]]
+[[Kategoriya:Lehistan]]
 
 [[be-x-old:Шчэцін]]
 [[bs:Ščečin]]
