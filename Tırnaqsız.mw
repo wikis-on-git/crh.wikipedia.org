@@ -1,7 +1,7 @@
 {{MY
  |tip                        = köy
  |qırımtatar adı             = Tırnaqsız
- |original adı               = ''tur.'' Sakarya
+ |original adı               = ''türk.'' Sakarya
  |memleket                   = Türkiye
  |gerb                       = 
  |bayraq                     = 
@@ -11,15 +11,13 @@
   |lon_deg =  |lon_min =  |lon_sec = 
   |CoordAddon                = 
   |CoordScale                = 
- |memleket haritasınıñ büyükligi   = 0
- |region1 haritasınıñ büyükligi    = 300
+ |memleket haritasınıñ büyükligi   = 300
+ |region1 haritasınıñ büyükligi    = 
  |region2 haritasınıñ büyükligi    = 
- |region1 haritası           = Crimea-Theodosia locator map.png
- |region2 haritası           = 
- |region1 türü               = Region
- |region1                    = Ankara (il)
+ |region1 türü               = İl
+ |region1                    = Ankara ili
  |cedvelde region1 adı       =
- |region2 türü               = şeer şurası
+ |region2 türü               = İlçe
  |region2                    = Polatlı ilçesi
  |cedvelde region2 adı       =
  |içki bölünüv               = 
@@ -41,7 +39,6 @@
   |aglomeratsiya             = 
   |milliy terkip             = 
   |diniy terkip              = 
-  |этнохороним               = 
  |saat quşağı                = +2
  |DST                        = bar
  |telefon kodu               = +90-312
@@ -53,7 +50,6 @@
  |sayt                       = 
  |sayt tili                  =
 }}
-
 '''Sakarya''' - [[Türkiye]]deki [[Ankara (il)|Ankara]] iliniñ [[Polatlı ilçesi]]ne bağlı bir qırımtatar köyü.
 
 [[Kategoriya:Ankara]]
