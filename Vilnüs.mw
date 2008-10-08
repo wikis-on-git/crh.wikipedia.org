@@ -1,47 +1,48 @@
 {{MY
  |tip                        = şeer
  |qırımtatar adı             = Vilnüs
- |original adı               = [[Litvan tili|litvanca]] Vilnius
+ |original adı               = Vilnius
  |memleket                   = Litvaniya
  |gerb                       = Grand Coat of arms of Vilnius.png
- |bayraq                     = 
+ |bayraq                     = Flag of Vilnius.svg
  |gerb eni                   = 
  |bayraq eni                 = 
   |lat_deg=54 |lat_min=41 |lat_sec=
   |lon_deg=25 |lon_min=17 |lon_sec=
-  |CoordAddon                = type:city_region:UZ
+  |CoordAddon                = type:city(541000)_region:LT
   |CoordScale                = 
- |memleket haritasınıñ büyükligi  =  
+ |memleket haritasınıñ büyükligi  = 250
  |region1 haritasınıñ büyükligi   = 
  |region2 haritasınıñ büyükligi   = 
  |region1 türü               = vilâyet
  |region1                    = Vilnüs vilâyeti
  |cedvelde region1 adı       = 
  |status                     = vilâyet merkezi
- |baş türü                   = akim
+ |baş türü                   =
  |baş                        = 
  |temeli qoyulğan tarihı     =
  |ilki añıluv                = 1323
- |evelki adları              = 
+ |evelki adları              = Vilno
  |bu seneden berli statuslı  = 
  |meydanlıq                  = 392
  |yükseklik türü             = 
  |yükseklik                  = 
  |iklim                      =
-  |eali                      = 610 000
-  |cedvelge aluv senesi      =  
+  |eali                      = 541 600
+  |cedvelge aluv senesi      = 2003
  |saat quşağı                = +2
- |telefon kodu               = 
+ |DST                        = bar
+ |telefon kodu               = +370 5
  |avtomobil kodu             = 
  |poçta indeksi              = 
  |identifikator türü         = 
  |raqamlı identifikator      = 
  |Commons                    = Vilnius
  |sayt                       = http://www.vilnius.lt/
- |sayt tili                  = 
+ |sayt tili                  =
  |sayt tili 2                = 
 }}
-'''Vilnüs''' - [[Litvaniya|Litvaniya]]nıñ paytahtı.
+'''Vilnüs''' ({{lang-lt|Vilnius}}) - [[Litvaniya|Litvaniya]]nıñ paytahtı.
 
 {{commons|Vilnius}}
 [[Category:Vilnüs| ]]
