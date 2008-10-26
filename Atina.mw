@@ -3,14 +3,12 @@
  |qırımtatar adı             = Atina
  |original adı               = Αθήνα
  |memleket                   = Yunanistan
- |tuğra                       = 
- |bayraq                     =Flag-Athens.png
- |tuğra eni                   =  
- |bayraq eni                 = 200
-|lat_deg = 37
-|lat_min = 58
-|lon_deg = 23
-|lon_min = 43
+ |bayraq                     = Flag-Athens.png
+ |bayraq eni                 = 
+ |tuğra                      =
+ |tuğra eni                  =  
+  |lat_deg = 37 |lat_min = 58
+  |lon_deg = 23 |lon_min = 43
   |CoordScale                = 
   |CoordAddon                = type:city_region:GR
  |memleket haritasınıñ büyükligi   = 300
