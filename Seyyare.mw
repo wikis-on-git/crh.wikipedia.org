@@ -20,8 +20,8 @@ Halqlarara Felekiyat Birliginiñ, 1919 senesi qabul etken Küneş sistemasını�
 |-
 !
 !style="font-size: smaller;"|Ad
-!style="font-size: smaller;"|Ekvator<br />diametri<ref>Ölçüler Dünya ile ilişkilidir</ref>
-!style="font-size: smaller;"|Kütle<ref>Ölçüler Dünya ile ilişkilidir</ref>
+!style="font-size: smaller;"|Ekvator<br />diametri<ref name="zemin">Ölçüler Zemin ile ilişkilidir</ref>
+!style="font-size: smaller;"|Kütle<ref name="zemin"/>
 !style="font-size: smaller;"|Orbita<br />radiusı ([[Astronomik birim|AU]])
 !style="font-size: smaller;"|Aylanuv periodı<br />(yıl)
 !style="font-size: smaller;"|[[Yörünge Eğikliği]]<br>güneş'in çapına (°)
@@ -129,7 +129,7 @@ Halqlarara Felekiyat Birliginiñ, 1919 senesi qabul etken Küneş sistemasını�
 | align="center" | bar
 | align="center" | H<sub>2</sub>, He
 |-
-|colspan=12 style="background: #FFFFFF; border-right:1px solid white; border-bottom:1px solid white; border-left:1px solid white;"|<div class="references-small" style="margin-bottom: 0em;">
+|colspan=12 style="background: #FFFFFF; border-right:1px solid white; border-bottom:1px solid white; border-left:1px solid white;"|<div class="references-small" style="margin-bottom: 0em;"><references />
 </div>
 |}
 
