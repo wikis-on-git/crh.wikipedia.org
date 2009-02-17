@@ -2,11 +2,11 @@
 | il_adı          = Bolu 
 | harita_adı      = Bolu 
 | bölge           = Karadeniz
-| meydanlıq       = 7.410
+| yüzölçümü       = 7.410
 | nüfus           = 270.417<ref name="tuik">[http://tuikrapor.tuik.gov.tr/reports/rwservlet?adnks=&report=turkiye_il_koy_sehir.RDF&p_il1=14&p_kod=2&desformat=html&ENVID=adnksEnv (TÜİK)]</ref>
-| şeer_nüfusu    = 157.9938<ref name="tuik"/>
+| şehir_nüfusu    = 157.9938<ref name="tuik"/>
 | köy_nüfusu      = 112.479<ref name="tuik"/>
-| nüfus_sıqlığı = 36.54
+| nüfus_yoğunluğu = 36.54
 | plaka_kodu      = 14
 | alan_kodu       = 374
 | vali            = Halil İbrahim Akpınar
@@ -15,7 +15,34 @@
 }}
 
 '''Bolu''', Türkiye Cumhuriyeti'nin Karadeniz Bölgesi'nin Garbî Karadeniz Bölümü'nde  bir şeerdir.
-
+{| class="wikitable" width=200
+! colspan=5 |Yıllara göre Bolu ilinin nüfusu
+|-
+| align="left" | Yıllar
+| align="right" |Merkez
+| align="right" |Köyler
+| align="right" |Toplam
+|- 
+| align="left" | [[2007]] 
+| align="right" |157.938
+| align="right" |112.479
+| align="right" |270.417
+|- 
+| align="left" | [[2000]] 
+| align="right" |142.685
+| align="right" |131.969
+| align="right" |270.654
+|- 
+| align="left" | [[1997]] 
+| align="right" |136.957
+| align="right" |127.870
+| align="right" |264.827
+|- 
+| align="left" | [[1990]]
+| align="right" |107.551
+| align="right" |155.368
+| align="right" |262.919
+|}
 
 == Tış linkler ==
 *[http://www.bolu.gov.tr/ Bolu Valiliği]
